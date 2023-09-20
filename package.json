@@ -1,0 +1,17 @@
+{
+  "name": "lejyonbot",
+  "version": "0.0.1",
+  "main": "lejyon.js",
+  "scripts": {
+    "test": "node lejyon.js"
+  },
+  "author": "inegol",
+  "license": "ISC",
+  "dependencies": {
+    "discord-moment": "^1.0.3",
+    "discord.js": "^12.5.1",
+    "quick.db": "^9.1.6"
+  },
+  "keywords": [],
+  "description": ""
+}
